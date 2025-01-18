@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benyamin", "Benyamin.csproj", "{968FA74E-DFAB-45BB-AC71-EE2398A3C52F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{968FA74E-DFAB-45BB-AC71-EE2398A3C52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968FA74E-DFAB-45BB-AC71-EE2398A3C52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968FA74E-DFAB-45BB-AC71-EE2398A3C52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968FA74E-DFAB-45BB-AC71-EE2398A3C52F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB92E2A8-3C47-4246-84A0-A9DA2D8D0E17}
+	EndGlobalSection
+EndGlobal
